@@ -11,7 +11,7 @@ public class UnaryOperator01 {
 //		obj.signOperator1();
 		obj.signOperator2();
 	}
-	
+
 	public void signOperator1() {
 		// 1. 부호 연산자
 		int num = 100;
